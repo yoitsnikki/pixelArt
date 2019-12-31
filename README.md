@@ -8,6 +8,8 @@ npx express-generator api in the root directory
 npm install in the api directory
 npm install --save cors in the api directory
 
+download 'react-circle-color-picker' from online
+
 Open two terminals: run client in one, api in the other
 
 ```
@@ -43,4 +45,13 @@ mongo
 
 Mongo DB is now set up! It should be running in terminals next to client and API
 
+```
+
+#### Next Steps
+```
+create a schema folder in api and add color.js to that folder
+create database.js and add the code to that document
+copy all the other codes into their respective files
+Open four terminals: client, api, mongo, and mongodb
+Your program should work!
 ```
